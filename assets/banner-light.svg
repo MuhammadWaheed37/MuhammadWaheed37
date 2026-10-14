@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Muhammad Waheed, Walmart, Wayfair and Amazon Marketplace Specialist">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0FDFA"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#115E59"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="24" fill="none" stroke="#CCE7E3"/>
+
+  <circle cx="150" cy="160" r="78" fill="url(#mono)"/>
+  <text x="150" y="181" text-anchor="middle" font-family="'Segoe UI', Inter, system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="1">MW</text>
+
+  <g font-family="'Segoe UI', Inter, system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="268" y="132" font-size="56" font-weight="700" fill="#0F172A">Muhammad Waheed</text>
+    <text x="270" y="182" font-size="27" font-weight="600" fill="#0F766E">Walmart · Wayfair · Amazon Marketplace Specialist</text>
+    <text x="270" y="224" font-size="20" fill="#475569">Catalog setup · Listing SEO · Bulk uploads · Error fixes · Since 2019</text>
+  </g>
+
+  <g transform="translate(1062 70)">
+    <rect width="150" height="180" rx="16" fill="#FFFFFF" stroke="#CCE7E3" stroke-width="2"/>
+    <rect x="18" y="18" width="114" height="62" rx="10" fill="#CCFBF1"/>
+    <path d="M60 62 l14-18 l10 12 l6-7 l14 13 z" fill="#0F766E" opacity="0.55"/>
+    <rect x="18" y="96" width="114" height="10" rx="5" fill="#0F172A" opacity="0.75"/>
+    <rect x="18" y="116" width="90" height="8" rx="4" fill="#94A3B8"/>
+    <rect x="18" y="132" width="102" height="8" rx="4" fill="#94A3B8"/>
+    <rect x="18" y="148" width="70" height="8" rx="4" fill="#94A3B8"/>
+    <circle cx="140" cy="10" r="24" fill="#B45309"/>
+    <path d="M129 10 l7 7 l14-15" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
